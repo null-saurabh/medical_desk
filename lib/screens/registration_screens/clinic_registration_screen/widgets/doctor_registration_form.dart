@@ -12,7 +12,7 @@ class DoctorRegistrationForm extends StatelessWidget {
   });
 
   @override
-  Widget build(BuildContext contexgit commit -m "first commit"t) {
+  Widget build(BuildContext context) {
     // print("in doctor form");
     return GetBuilder(
         init: controller,
